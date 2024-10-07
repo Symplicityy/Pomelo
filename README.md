@@ -1,4 +1,4 @@
-<img src="/Assets.xcassets/AppIcon.appiconset/pomelo-remake.png" width="120" style="border-radius:50%">
+<img src="/Pomelo/Assets.xcassets/AppIcon.appiconset/pomelo-remake.png" width="120" style="border-radius:50%">
 
 # Pomelo
 
