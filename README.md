@@ -2,7 +2,7 @@
 
 # Pomelo
 
-Pomelo is a Nintendo Switch Emulator based off of Sudachi for iOS devices.
+Pomelo is a N******* Switch Emulator based off of Sudachi for iOS devices.
 
 # Piracy
 
@@ -12,7 +12,7 @@ WE DO NOT CONDONE OR SUPPORT PIRACY AT ALL. If you want to use Pomelo you will b
 
 ### NOTE: Some entitlements Pomelo depends on require a PAID Apple Developer Account. Your mileage with a free account might be limited. 
 
-Pomelo is based on Sudachi which was orginally sourced from the now defunct Yuzu emulator.
+Pomelo is based on Sudachi which was orginally sourced from the now defunct Y*** emulator.
 
 ## iOS
 
